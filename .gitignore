@@ -1,0 +1,7 @@
+# Ignore Neovim cache/state files
+undo/
+swap/
+backup/
+*.swp
+*.swo
+state/

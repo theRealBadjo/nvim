@@ -1,0 +1,4 @@
+{
+  "hyper.nvim": { "branch": "main", "commit": "d2d7a554274097387e01433a3bd2c91ff4624a9a" },
+  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" }
+}
